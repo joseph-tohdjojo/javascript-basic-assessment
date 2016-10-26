@@ -1,4 +1,4 @@
-
+// Time starts now October 26, 2016 3:14pm
 // #1 Create a variable called hello and assign it the string 'goodbye'
 
 
@@ -94,4 +94,3 @@ var heroes = ['superman', 'batman', 'flash'];
 
 // #16 Create a function called callerBack that takes in a function (holla) and a string parameter(back) and invokes it(holla) with the argument string(back) + ' back'."
 // example - If I call you with 'Give it' you should invoke holla with 'Give it back'
-
